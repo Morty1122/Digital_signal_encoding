@@ -1,10 +1,9 @@
-# HITsz通信工程方法论课程设计
-HITsz 通信工程方法论课程设计_不同编码通过不同的信道误码率曲线
+# Digital signal encoding
 
-完成汉明码、循环码和卷积码分别通过AWGN信道、瑞利信道和莱斯信道的误码率曲线对比，完成三种不同对比方式
+Completion of BER curve comparison of Hamming, cyclic and convolutional codes through AWGN channel, Rayleigh channel and Rice channel, respectively, and completion of three different comparison methods
 
-①同一编码方式通过不同信道的误码率曲线
+①BER curves of the same coding method through different channels
 
-②不同编码方式通过同一信道的误码率曲线
+②BER curves of different coding methods through the same channel
 
-③以Rayleigh信道为例，不同种类卷积码的误码率曲线
+③BER curves of different types of convolutional codes through Rayleigh channel as an example
